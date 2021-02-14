@@ -1,2 +1,2 @@
 # Contacts-Manager
-A mini deskptop Contacts Manager with PyQt5
+A mini deskptop Contacts Manager built with PyQt5
